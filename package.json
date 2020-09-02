@@ -1,0 +1,17 @@
+{
+  "name": "udemycourseepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-sanitizer": "^1.0.5",
+    "mongoose": "^5.10.2",
+    "nodemon": "^2.0.4"
+  }
+}
